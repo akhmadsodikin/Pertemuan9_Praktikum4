@@ -24,11 +24,11 @@ data_saya = list_saya[0:2]
 print(data_saya)
 
 print("Tambah list B dengan nilai string")
-data_saya.append("SN Fauziah")
+data_saya.append("SN SODIKIN")
 print(data_saya)
 
 print("Tambah list B dengan 3 nilai")
-data_saya.extend(["Uci", 27, 99])
+data_saya.extend(["PAIJO", 27, 99])
 print(data_saya)
 
 print("gabungkan list B dengan list A")
